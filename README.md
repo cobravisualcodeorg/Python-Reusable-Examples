@@ -1,3 +1,7 @@
+
+
+
+
 Sobre Fast Executable:
 
 FastExecutable es una herramienta que permite convertir archivos `.py` a `.exe` de forma rápida desde el editor Cobra Python.
@@ -20,5 +24,11 @@ FastExecutable es una herramienta que permite convertir archivos `.py` a `.exe` 
 
 ---
 
-### Aviso Legal
-**Versión ofuscada y versiones anteriores o nuevas versiones. No uso comercial. Todos los derechos reservados © CobraVisualCode.org**
+Descarga cobra python editor aqui:
+https://cobravisualcodeorg.github.io/Cobra-Python-Editor/
+
+Repositorio:
+https://github.com/cobravisualcodeorg/Cobra-Python-Editor
+
+### Aviso Legal sobre fastexecutable y cobrapythoneditor
+**No uso comercial. Todos los derechos reservados © CobraVisualCode.org**
